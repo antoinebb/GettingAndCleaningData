@@ -38,4 +38,4 @@ So dowload the file run_analysis.R and open it in R Studio
 
 So you can now run it 
 
-At the end you have create  DataAverage containing containing the tidy dataset with the average for each Subject and each Activity , you have also create in your working directory the file "DataAverage.txt" containing all those data
+At the end you have create  DataAverage containing  the tidy dataset with the average for each Subject and each Activity , you have also create in your working directory the file "DataAverage.txt" containing all those data
